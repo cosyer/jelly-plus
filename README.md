@@ -7,6 +7,7 @@
 - [space-howbig (宇宙有多大)](https://cosyer.github.io/jelly-plus/web/space-howbig/index.html)
 - [cyberpunk (赛博朋克2077故障风按钮)](https://cosyer.github.io/jelly-plus/web/cyberpunk/button.html)
 https://codepen.io/bsepiolo/pen/rNVYvWy
+- [tiktok (文字抖动)](https://cosyer.github.io/jelly-plus/web/tiktok/index.html)
 
 ## game
 - [demon_tower (魔塔游戏)](https://cosyer.github.io/jelly-plus/game/demon_tower/index.html)
